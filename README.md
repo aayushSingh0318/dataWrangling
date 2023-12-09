@@ -1,10 +1,9 @@
-# dataWrangling
+# Life Expectancy Analysis
 
 ## Description
 
 The dataset Life_Expectancy_Data.csv is an Excel spreadsheet giving the life expectancy of different countries and various parameters that may affect life expectancy.
 
-# Life Expectancy Analysis
 
 ## Project Overview
 
